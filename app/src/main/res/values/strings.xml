@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CarStereo</string>
+    <string name="cd_deck">CD Deck</string>
+    <string name="prev_button"><![CDATA[<<]]></string>
+    <string name="pause_button">| |</string>
+    <string name="next_button"><![CDATA[>>]]></string>
 </resources>
